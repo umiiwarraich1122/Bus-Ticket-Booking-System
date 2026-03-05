@@ -1,0 +1,28 @@
+# Bus Ticket Booking System
+
+## Project Description
+The Bus Ticket Booking System is a web-based application developed to allow users to search buses, view schedules, and book tickets online. The system helps manage bus routes, passenger details, and booking records efficiently.
+
+This project demonstrates the use of modern web technologies to build an interactive booking system.
+
+## Features
+- Search available buses
+- View bus schedules
+- Book bus tickets
+- Manage passenger information
+- Simple and user-friendly interface
+
+## Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+- SQL / MySQL
+
+## Tools
+- Visual Studio Code
+- Node.js
+- MySQL
+- Git & GitHub
+
+## Project Structure
